@@ -1,4 +1,4 @@
-# Rust System Monitor
+## Project Assumptions
 
 A lightweight, cross-platform system monitoring application that displays real-time system metrics in the system tray. Built with Rust for performance and reliability.
 
