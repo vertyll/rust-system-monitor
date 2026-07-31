@@ -14,9 +14,8 @@ A lightweight, cross-platform system monitoring application that displays real-t
 ## System Requirements
 
 > [!IMPORTANT]
-> Windows 10/11, macOS 10.14+, or Linux with system tray support
->
-> Rust (for building from source)
+> - Windows 10/11, macOS 10.14+, or Linux with system tray support
+> - Rust (for building from source)
 
 ## Installation
 
