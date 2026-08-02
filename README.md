@@ -23,16 +23,14 @@ A lightweight, cross-platform system monitoring application that displays real-t
 ### From Source
 
 1. Clone the repository.
-
 2. Build the application:
-```bash
-cargo build --release
-```
-
+    ```bash
+    cargo build --release
+    ```
 3. Run the application:
-```bash
-cargo run --release
-```
+    ```bash
+    cargo run --release
+    ```
 
 ## Configuration
 
@@ -116,7 +114,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## Acknowledgments
 
-- Built with the excellent Rust ecosystem.
+- Built with the Rust ecosystem.
 - Uses the `sysinfo` crate for cross-platform system information.
 - UI powered by the `egui` immediate mode GUI framework.
 - Internationalization supported by Mozilla's Fluent framework.
